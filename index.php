@@ -1,1 +1,1 @@
-<?php echo "nuovo index ".date("d-m-y"); ?>
+<?php echo "nuovo index ".date("d-m-y")." ".time(); ?>
