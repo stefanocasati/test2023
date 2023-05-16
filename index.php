@@ -9,5 +9,5 @@ $x = 5;
 $y = 10.5;
 echo "la variabile è ".$x;
 echo "facciamo altra prova perchè no?";
-echo "ciao";
+echo "ciao Stefano ci sono cose peggiori che la sconfitta in semi";
 ?>
