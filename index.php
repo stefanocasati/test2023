@@ -8,6 +8,6 @@ echo "<br/>";
 $x = 5;
 $y = 10.5;
 echo "la variabile è ".$x;
-echo "facciamo un'altra prova perchè no?";
+echo "facciamo altra prova perchè no?";
 
 ?>
