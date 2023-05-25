@@ -11,5 +11,4 @@ echo "la variabile è ".$x;
 echo "facciamo altra prova perchè no?";
 echo "ciao Stefano ci sono cose peggiori che la sconfitta in semi";
 echo "questo è il master";
-echo "prova master 25 mag"
 ?>
