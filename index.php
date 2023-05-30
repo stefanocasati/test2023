@@ -12,5 +12,5 @@ echo "facciamo altra prova perchè no?";
 echo "ciao Stefano ci sono cose peggiori che la sconfitta in semi";
 echo "questo è il branch hotfix";
 echo "<br/>";
-echo "prova stash";
+echo "nuova prova stash";
 ?>
