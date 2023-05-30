@@ -16,4 +16,7 @@ echo "prova modified";
 echo "<br/>";
 echo "prova commit da terminal";
 echo "questo è il branch hotfix mergato";
+echo "questo è il branch hotfix";
+echo "<br/>";
+echo "nuova prova stash";
 ?>
